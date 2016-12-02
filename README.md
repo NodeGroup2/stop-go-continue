@@ -10,3 +10,7 @@ Most important points:
 - STOP: Running late
 
 ![](stop-go-continue-week6.jpg)
+
+## Week 7
+
+![](stop-go-continue-week7.jpg)
