@@ -13,4 +13,4 @@ Most important points:
 
 ## Week 7
 
-![](stop-go-continue-week7.jpg)
+![](stop-go-continue-week7.JPG)
